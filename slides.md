@@ -19,7 +19,7 @@ info: |
 # persist drawings in exports and build
 drawings:
   persist: false
-monaco: 'build'  
+monaco: true  
 ---
 
 # Welcome to Slidev
